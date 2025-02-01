@@ -1,5 +1,11 @@
 # License Plate Detection and Recognition using OpenCV & EasyOCR
 
+
+ ## Example Output
+ An example of a detected license plate and recognized text:
+![Detected License Plate](result1.png)
+
+
 ## Overview
 This project implements an automated License Plate Recognition (LPR) system using OpenCV for image processing and EasyOCR for text extraction. The system processes vehicle images to detect and recognize license plate numbers.
 
