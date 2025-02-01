@@ -35,9 +35,3 @@ pip install opencv-python numpy matplotlib imutils easyocr
  2. **Edge Detection:** Identify the edges using the Canny algorithm.
  3. **Contour Detection:** Extract the rectangular region containing the license plate.
  4. **OCR Processing:** Use EasyOCR to extract text from the detected plate.
-
-
-
-
- ## Example Output
- An example of a detected license plate and recognized text:
