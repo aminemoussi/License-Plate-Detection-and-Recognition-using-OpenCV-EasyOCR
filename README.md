@@ -3,7 +3,10 @@
 
  ## Example Output
  An example of a detected license plate and recognized text:
-![Detected License Plate](result1.png)
+<p align="center">
+    <img src="result1.png" alt="Original Image" width="45%" style="border-radius: 10px; border: 2px solid #ddd;">
+    <img src="result2.png" alt="Processed Image" width="45%" style="border-radius: 10px; border: 2px solid #ddd;">
+</p>
 
 
 ## Overview
